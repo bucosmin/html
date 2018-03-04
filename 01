@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hello World! </title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <section>
+      <h2>Latest Post</h2>
+      <h3>Here you can see all the latest post</h3>
+      <article>
+        <h4>This is the post title</h4>
+        <p>This is some content inside this post</p>
+        <h5>Author: Cosmin</h5>
+      </article>
+      <article>
+        <h4>This is the post title</h4>
+        <!-- <br> imi pune textul pe doua randuri-->
+        <p>This is some content <br> inside this post</p>
+        <h5>Author: Cosmin</h5>
+      </article>
+    </section>
+    <!-- The <div> tag defines a division inside your HTML file, and it is
+    used to group HTML elements to make it easier to style them using CSS
+    it is like a box-->
+    <div>
+    <p>pot pune ce vreau aici</p>
+    </div>
+  </body>
+</html>
